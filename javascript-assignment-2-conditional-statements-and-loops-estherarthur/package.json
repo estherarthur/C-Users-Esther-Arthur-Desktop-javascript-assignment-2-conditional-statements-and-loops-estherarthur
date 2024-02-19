@@ -1,0 +1,25 @@
+{
+	"name": "template-conditional-statements-and-loops",
+	"version": "1.0.0",
+	"description": "JavaScript Assignment on Conditional Statements and Loops.",
+	"main": "fizzBuzz.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"jest": {
+		"collectCoverage": true
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Azubi-Africa/template-conditional-statements-and-loops.git"
+	},
+	"author": "FRONTEND_DEV_AZUBI",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Azubi-Africa/template-conditional-statements-and-loops/issues"
+	},
+	"homepage": "https://github.com/Azubi-Africa/template-conditional-statements-and-loops#readme",
+	"devDependencies": {
+		"jest": "^29.5.0"
+	}
+}
